@@ -18,3 +18,15 @@ The official Kali documentation states that you will need a bootable USB drive o
 
 Download the OVF file from Cloud Storage mega (https://mega.nz/folder/lHcTVICZ#Sjr2STWriFGdzXiH-SHdnQ) and install it on your preferred virtualization tool. I have tested it on VMWare Workstation 16 Pro. The file size is of almost 6 GB.
 
+## Frameworks
+
+- [LinkScope](https://github.com/AccentuSoft/LinkScope_Client)
+- [Maltego](https://www.maltego.com/)
+- [Netcat](https://netcat.sourceforge.net/)
+- [Nmap](https://nmap.org/download.html)
+- [Recon-ng](https://github.com/lanmaster53/recon-ng)
+- [Spiderfoot](https://github.com/smicallef/spiderfoot)
+- [Tcpdump](https://github.com/the-tcpdump-group/tcpdump)
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [Wireshark](https://github.com/wireshark/wireshark)
+
