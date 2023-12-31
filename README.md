@@ -30,3 +30,5 @@ Download the OVF file from Cloud Storage mega (https://mega.nz/folder/lHcTVICZ#S
 - [theHarvester](https://github.com/laramies/theHarvester)
 - [Wireshark](https://github.com/wireshark/wireshark)
 
+## OSINT
+
