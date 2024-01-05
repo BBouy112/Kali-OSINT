@@ -38,7 +38,7 @@ Download the OVF file from Cloud Storage mega (https://mega.nz/folder/lHcTVICZ#S
 
 ## OSINT
 
-## Kali Linux Usual Application![Uploading image.png…]()
+## Kali Linux Usual Application
 s
 - Accessories
 - Development
