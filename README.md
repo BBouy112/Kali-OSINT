@@ -55,7 +55,7 @@ In the [blog post](https://www.kali.org/blog/python-externally-managed/) from 6t
 
 # Feedback
 
-If you have any feedback,suggestions or comments please reach out to me at owaiskham.corvitccna24@gmail.com
+If you have any feedback,suggestions or comments please reach out to me at owaiskhan.corvitccna24@gmail.com
 
 # Disclaimer
 
