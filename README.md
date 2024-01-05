@@ -16,7 +16,7 @@ The official Kali documentation states that you will need a bootable USB drive o
 
 # Download
 
-Download the OVF file from Cloud Storage mega (https://mega.nz/folder/lHcTVICZ#Sjr2STWriFGdzXiH-SHdnQ) and install it on your preferred virtualization tool. I have tested it on VMWare Workstation 16 Pro. The file size is of almost 6 GB.
+Download the OVF file from Cloud Storage mega (https://mega.nz/folder/lHcTVICZ#Sjr2STWriFGdzXiH-SHdnQ) and install it on your preferred virtualization tool. I have tested it on VMWare Workstation 16 Pro. The file size is of almost 14.1 GB.
 
 ## Frameworks
 
