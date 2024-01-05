@@ -1,6 +1,6 @@
 # KALI-OSINT
 
-**![KALi-OSINT]** ![Screenshot 2023-12-31 221246](https://github.com/BBouy112/Kali-OSINT/assets/155302174/a044dfbf-776e-49c7-a82a-a2aa39abae81)
+**[KALi-OSINT]** ![Screenshot 2023-12-31 221246](https://github.com/BBouy112/Kali-OSINT/assets/155302174/a044dfbf-776e-49c7-a82a-a2aa39abae81)
 
 # The Project
 
