@@ -32,7 +32,8 @@ Download the OVF file from Cloud Storage mega (https://mega.nz/folder/lHcTVICZ#S
 - [Knock](https://github.com/guelfoweb/knock.git)
 - [DnsEnum](https://github.com/fwaeytens/dnsenum.git)
 - [MOSINT](https://github.com/alpkeskin/mosint.git)
-- 
+- [OWASP MARYAM]( https://github.com/saeeddhqan/Maryam.git)
+
 
 
 ## OSINT
