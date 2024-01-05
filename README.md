@@ -30,7 +30,7 @@ Download the OVF file from Cloud Storage mega (https://mega.nz/folder/lHcTVICZ#S
 - [theHarvester](https://github.com/laramies/theHarvester)
 - [Wireshark](https://github.com/wireshark/wireshark)
 - [Knock](https://github.com/guelfoweb/knock.git)
-- [DnsEnum]([https://github.com/guelfoweb/knock.git)
+- [DnsEnum](https://github.com/fwaeytens/dnsenum.git)
 - [MOSINT](https://github.com/alpkeskin/mosint.git)
 - 
 
